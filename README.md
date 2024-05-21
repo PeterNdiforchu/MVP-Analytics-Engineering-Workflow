@@ -42,8 +42,8 @@
 ### Workflow Diagram
 Here's a simplified diagrammatic representation of the workflow:
 
-```plaintext
-plaintextCopy code+--------------------+        +--------------------+        +--------------------+
+```
++--------------------+        +--------------------+        +--------------------+
 |  Requirement       |        | Data Extraction    |        | Data Transformation|
 |  Gathering (Jira)  |        | and Loading (EL)   |        | using dbt          |
 +--------------------+        +--------------------+        +--------------------+
